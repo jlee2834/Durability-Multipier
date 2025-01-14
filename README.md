@@ -20,6 +20,7 @@ The plugin comes with a default configuration file that can be adjusted to your 
 {
   "Durability Multiplier": 2.0
 }
+```
 
 **Commands/Permissions**
 This plugin does not have any player or admin commands; configuration is handled via the JSON configuration file.
